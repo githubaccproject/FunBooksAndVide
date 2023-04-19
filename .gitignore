@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/FunBooksAndVideos/v17/.suo
+/.vs/FunBooksAndVideos/v17
+/.vs/FunBooksAndVideos/FileContentIndex/read.lock
+/.vs/FunBooksAndVideos/FileContentIndex/fd8fce28-5f8b-4fe8-8e28-cf1d973d3584.vsidx
+/.vs/FunBooksAndVideos/FileContentIndex/cd6d982f-4dec-4508-9fa9-cc9705fed274.vsidx
+/.vs/FunBooksAndVideos/FileContentIndex/9b873dfb-6478-49e0-9fc2-6ea859d6b28d.vsidx
+/.vs/FunBooksAndVideos/FileContentIndex/8b984763-fe9d-477b-9920-312ad144384e.vsidx
+/.vs/FunBooksAndVideos/FileContentIndex
+/.vs/FunBooksAndVideos/DesignTimeBuild/.dtbcache.v2
+/.vs/FunBooksAndVideos/DesignTimeBuild
+/.vs/FunBooksAndVideos/config/applicationhost.config
+/.vs/FunBooksAndVideos/config
+/.vs/FunBooksAndVideos
